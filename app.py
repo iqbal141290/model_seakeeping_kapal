@@ -5,7 +5,7 @@ import numpy as np
 
 # 1. Judul Aplikasi
 st.set_page_config(page_title="Seakeeping Monitor", layout="wide")
-st.title(" Sistem Monitor Seakeeping Kapal 🚢 - Iqbal")
+st.title(" 🚢 Sistem Monitor Seakeeping Kapal - Iqbal")
 
 # 2. Fungsi Load Model agar tidak berat saat dijalankan
 @st.cache_resource
