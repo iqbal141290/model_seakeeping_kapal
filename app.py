@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # 1. Judul Aplikasi
-st.set_page_config(page_title="Seakeeping Monitor", layout="wide")
+st.set_page_config(page_title="Seakeeping Monitor Iqbal", layout="wide")
 st.title("🚢 Sistem Monitor Seakeeping Kapal")
 
 # 2. Fungsi Load Model agar tidak berat saat dijalankan
